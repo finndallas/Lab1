@@ -11,7 +11,7 @@ Insert your truth table here
 | Jan   | 0 | 0 | 0 | 1 | 1 |
 | Feb   | 0 | 0 | 1 | 0 | 0 |
 | Mar   | 0 | 0 | 1 | 1 | 1 |
-| Apr   | 0 | 1 | 0 | 1 | 0 |
+| Apr   | 0 | 1 | 0 | 0 | 0 |
 | May   | 0 | 1 | 0 | 1 | 1 |
 | Jun   | 0 | 1 | 1 | 0 | 0 |
 | Jul   | 0 | 1 | 1 | 1 | 1 |
@@ -20,7 +20,6 @@ Insert your truth table here
 | Oct   | 1 | 0 | 1 | 0 | 1 |
 | Nov   | 1 | 0 | 1 | 1 | 0 |
 | Dec   | 1 | 1 | 0 | 0 | 1 |
-
 ### Boolean Equation
 
 $$
