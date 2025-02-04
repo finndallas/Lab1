@@ -28,6 +28,7 @@ Y = A'D+AD'
 $$
 
 ### Digital Simulations
+[ECE281_Lab1-Prelab.pdf](https://github.com/user-attachments/files/18652923/ECE281_Lab1-Prelab.pdf)
 
 In this folder are also Digital templates for you to complete and simulate.  Do not change the file names or the input and output labels in Digital otherwise the autograder will not work.  The autograder will look in the prelab folder for the files.
 
