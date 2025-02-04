@@ -21,9 +21,10 @@ Insert your truth table here
 | Nov   | 1 | 0 | 1 | 1 | 0 |
 | Dec   | 1 | 1 | 0 | 0 | 1 |
 ### Boolean Equation
+![Lab1KMap](https://github.com/user-attachments/assets/3fab83f8-93d1-4444-a9c1-3a1692d8298e)
 
 $$
-Y = ?
+Y = A'D+AD'
 $$
 
 ### Digital Simulations
